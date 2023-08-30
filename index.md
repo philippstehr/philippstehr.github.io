@@ -2,7 +2,7 @@
 
 I am a political philosopher broadly interested in the economy and economics. I am currently writing a dissertation at Utrecht University on business corporations and democracy. I have a secondary research interest in early Max Horkheimer, especially his methodological writings.
 
-Before coming to Utrecht I did my BA in Philosophy in Frankfurt and an interdisciplinary MA in "Ethics - Economics, Law and Politics" in Bochum.
+Before coming to Utrecht I did my BA in Philosophy in Frankfurt and an interdisciplinary MA in "Ethics - Economics, Law and Politics" in Bochum. You can find my full CV [here](https://philippstehr.github.io/CV.html).
 
 In case you are at a conference where I am giving a talk, you can find my slides [here](https://philippstehr.github.io/presentations/Presentation_Braga_slides.pdf).
 
@@ -26,11 +26,11 @@ with Savriel Dillingh: *Hoe lossen we de wooncrisis op? Drie lessen uit de bedri
 
 ## Teaching
 
-In 2022 and 2023 I have taught an Introduction to Political Philosophy for PPE students at Utrecht.
+In 2022 and 2023 I have co-taught an Introduction to Political Philosophy for PPE students at Utrecht.
 
-From 2018 to 2020 I was a research and teaching assistant for a range of courses including an introductory lecture on Ethics and seminars on legitimacy, Kant, a Univeral Basic Income and other topics in political philosophy.
+From 2018 to 2020 I was a research and teaching assistant for a range of courses, including an introductory lecture on Ethics and seminars on legitimacy, Kant, a Univeral Basic Income, and other topics in political philosophy.
 
-Students can find some basic tips for taking a philosophy class [here](https://philippstehr.github.io/StudentResources.html).
+Students can find some basic tips for studying philosophy [here](https://philippstehr.github.io/StudentResources.html).
 
 ## Imprint
 
