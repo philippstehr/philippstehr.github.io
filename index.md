@@ -4,6 +4,8 @@ I am a political philosopher broadly interested in the economy and economics. I 
 
 Before coming to Utrecht I did my BA in Philosophy in Frankfurt and an interdisciplinary MA in "Ethics - Economics, Law and Politics" in Bochum.
 
+In case you are at a conference where I am giving a talk, you can find my slides [here](https://philippstehr.github.io/presentations/Presentation_Braga_slides.pdf).
+
 ## Dissertation project
 
 Business corporations hold an enormous amount of power towards employees, contractors, customers, and the general public without any democratic control. This runs contrary to basic democratic convictions, so the democratization of business corporations is called for. In my thesis I explore several questions related to this project of democratization. What exactly does it mean to democratize a business corporation? Who should be involved and what kinds of institutional changes are democratic? How can we develop feasible institutional proposals for democratic business corporations? What are feasible institutional proposals and what does 'feasible' even mean in the context of such a fundamental change to our economic infrastructure?
@@ -12,7 +14,7 @@ Business corporations hold an enormous amount of power towards employees, contra
 
 *Expropriation as a measure of corporate reform - learning from the Berlin initiative.* Accepted at the European Journal of Political Theory.
 
-*The Boundary Problem in Workplace Democracy: Who Constitutes the Corporate Demos?* Political Theory, 51(3), 507-529. [Link](https://journals.sagepub.com/doi/10.1177/00905917221131821)
+*The Boundary Problem in Workplace Democracy: Who Constitutes the Corporate Demos?* Political Theory, 51(3), 507-529. [Link (Open Access)](https://journals.sagepub.com/doi/10.1177/00905917221131821)
 
 ## Public Pieces
 
@@ -27,6 +29,8 @@ with Savriel Dillingh: *Hoe lossen we de wooncrisis op? Drie lessen uit de bedri
 In 2022 and 2023 I have taught an Introduction to Political Philosophy for PPE students at Utrecht.
 
 From 2018 to 2020 I was a research and teaching assistant for a range of courses including an introductory lecture on Ethics and seminars on legitimacy, Kant, a Univeral Basic Income and other topics in political philosophy.
+
+Students can find some basic tips for taking a philosophy class [here](https://philippstehr.github.io/StudentResources.html).
 
 ## Imprint
 
