@@ -36,13 +36,15 @@ Overall grade: excellent (1,3)
 **Thesis Advisor:** Philipp Schink
 
 
-## ACADEMIC PUBLICATIONS
+## PEER-REVIEWED PUBLICATIONS
 
 *Expropriation as a Measure of Corporate Reform - Learning from the Berlin Initiative.* Accepted at the European Journal of Political Theory.
 
-with Barbara Bziuk: *What Is Wrong with the World Power System and What Can Accounting Do About It?* (contribution to book symposium) Journal of Law and Political Economy, 3(3) (2023) [Link](https://doi.org/10.5070/LP63361150)
-
 *The Boundary Problem in Workplace Democracy: Who Constitutes the Corporate Demos?* Political Theory, 51(3), 507-529 (2023) [Link](https://doi.org/10.1177/00905917221131821)
+
+## OTHER ACADEMIC WRITING
+
+with Barbara Bziuk: *What Is Wrong with the World Power System and What Can Accounting Do About It?* (contribution to book symposium) Journal of Law and Political Economy, 3(3) (2023) [Link](https://doi.org/10.5070/LP63361150)
 
 ## PUBLIC PIECES
 
@@ -50,7 +52,8 @@ with Savriel Dillingh: *Hoe lossen we de wooncrisis op? Drie lessen uit de bedri
 
 *A Match Made in Law? On Corporations and Their Uncomfortable Fit with Democracy*, The American Philosophical Association, 2021. [Link](https://blog.apaonline.org/2021/10/04/a-match-made-in-law-on-corporations-and-their-uncomfortable-fit-with-democracy/)
 
-*Das Berliner Volksbegehren und die politische Theorie des Unternehmens.* www.praefaktisch.de, 2021. [Link](https://www.praefaktisch.de/002e/das-berliner-volksbegehren-und-die-politische-theorie-des-unternehmens/)
+*Das Berliner Volksbegehren und die politische Theorie des Unternehmens.* www.praefaktisch.de, 2021. [Link](https://www.praefaktisch.de/002e/das-berliner-volksbegehren-und-die-politische-theorie-des-unternehmens/)  
+    republished at the blog of agora42 magazine [Link](https://agora42.de/das-berliner-volksbegehren-und-die-politische-theorie-des-unternehmens-philipp-stehr/)
 
 ## SERVICE
 
@@ -87,4 +90,4 @@ As teaching assistant:
 - *On Objective Function and Emancipatory Commitment. Lessons on Methodology from the early Frankfurt School* 29 Jun 2021, University of Leeds Graduate Political Theory Conference
 - *Defining the Corporate Demos* 27 Apr 2021, Oxford Graduate Conference in Political Theory
 
-*Last Updated: 23/08/30*
+*Last Updated: 2023-09-08*

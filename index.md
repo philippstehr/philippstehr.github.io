@@ -4,7 +4,7 @@ I am a political philosopher broadly interested in the economy and economics. I 
 
 Before coming to Utrecht I did my BA in Philosophy in Frankfurt and an interdisciplinary MA in "Ethics - Economics, Law and Politics" in Bochum. You can find my full CV [here](https://philippstehr.github.io/CV.html).
 
-In case you are at a conference where I am giving a talk, you can find my slides [here](https://philippstehr.github.io/presentations/Presentation_Braga_slides.pdf).
+In case you are at a conference where I am giving a talk, you can find my slides [here](https://philippstehr.github.io/presentations/Presentation.pdf).
 
 ## Dissertation project
 
