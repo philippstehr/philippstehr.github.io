@@ -12,7 +12,7 @@ Business corporations hold an enormous amount of power towards employees, contra
 
 ## Papers
 
-*Expropriation as a measure of corporate reform - learning from the Berlin initiative.* Accepted at the European Journal of Political Theory.
+*Expropriation as a measure of corporate reform - learning from the Berlin initiative.* European Journal of Political Theory, Online First. [Link (Open Access)](https://journals.sagepub.com/doi/10.1177/14748851231197799)
 
 *The Boundary Problem in Workplace Democracy: Who Constitutes the Corporate Demos?* Political Theory, 51(3), 507-529. [Link (Open Access)](https://journals.sagepub.com/doi/10.1177/00905917221131821)
 
@@ -28,7 +28,7 @@ with Savriel Dillingh: *Hoe lossen we de wooncrisis op? Drie lessen uit de bedri
 
 In 2022 and 2023 I have co-taught an Introduction to Political Philosophy for PPE students at Utrecht.
 
-From 2018 to 2020 I was a research and teaching assistant for a range of courses, including an introductory lecture on Ethics and seminars on legitimacy, Kant, a Univeral Basic Income, and other topics in political philosophy.
+From 2018 to 2020 I was a research and teaching assistant for a range of courses at Ruhr-University Bochum, including an introductory lecture on Ethics and seminars on legitimacy, Kant, a Univeral Basic Income, and other topics in political philosophy.
 
 Students can find some basic tips for studying philosophy [here](https://philippstehr.github.io/StudentResources.html).
 

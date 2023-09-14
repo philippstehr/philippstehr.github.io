@@ -6,7 +6,7 @@ pstehr[at]posteo[dot]de
 ## AREAS OF INTEREST
 - Political and Social Theory, especially regarding economic institutions
 - Philosophy of the Social Sciences, especially Economics
-- Critical Theory, especially early Frankfurt School
+- Critical Theory, especially early Max Horkheimer
 
 ## ACADEMIC POSITIONS
 
@@ -38,7 +38,7 @@ Overall grade: excellent (1,3)
 
 ## PEER-REVIEWED PUBLICATIONS
 
-*Expropriation as a Measure of Corporate Reform - Learning from the Berlin Initiative.* Accepted at the European Journal of Political Theory.
+*Expropriation as a Measure of Corporate Reform - Learning from the Berlin Initiative.* European Journal of Political Theory, Online First. [Link](https://journals.sagepub.com/doi/10.1177/14748851231197799)
 
 *The Boundary Problem in Workplace Democracy: Who Constitutes the Corporate Demos?* Political Theory, 51(3), 507-529 (2023) [Link](https://doi.org/10.1177/00905917221131821)
 
@@ -90,4 +90,4 @@ As teaching assistant:
 - *On Objective Function and Emancipatory Commitment. Lessons on Methodology from the early Frankfurt School* 29 Jun 2021, University of Leeds Graduate Political Theory Conference
 - *Defining the Corporate Demos* 27 Apr 2021, Oxford Graduate Conference in Political Theory
 
-*Last Updated: 2023-09-08*
+*Last Updated: 2023-09-14*
