@@ -55,7 +55,7 @@ with Savriel Dillingh: *Hoe lossen we de wooncrisis op? Drie lessen uit de bedri
 *Das Berliner Volksbegehren und die politische Theorie des Unternehmens*, www.praefaktisch.de, 2021. [Link](https://www.praefaktisch.de/002e/das-berliner-volksbegehren-und-die-politische-theorie-des-unternehmens/)  
     republished at the blog of agora42 magazine [Link](https://agora42.de/das-berliner-volksbegehren-und-die-politische-theorie-des-unternehmens-philipp-stehr/)
 
-## Conference Organisation
+## CONFERENCE ORGANISATION
 
 - MANCEPT Workshop *Business Corporations, Non-ideal Theory, and Social Change*, 11 - 12 September 2023, Manchester, with Barbara Bziuk.
 - *Democracy and the Corporation*, 16 - 18 March 2022, Utrecht, with Rutger Claassen.
