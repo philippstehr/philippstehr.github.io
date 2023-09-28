@@ -10,7 +10,7 @@ pstehr[at]posteo[dot]de
 
 ## ACADEMIC POSITIONS
 
-**Currently: PhD Candidate, Utrecht University, 2020 - 2024**  
+**Currently: PhD Candidate, Utrecht University, 09/2020 - 08/2024**  
 Full-time position in Rutger Claassen's ERC project *The Business Corporation as a Political Actor*
 
 **Visiting Research Fellow, Brown University, 09/2022 - 12/2022**  
@@ -21,17 +21,15 @@ Chair of Practical Philosophy, esp. Political Philosophy and Philosophy of Law, 
 
 ## EDUCATION
 
-**Currently: PhD Candidate, Utrecht University, 2020 - 2024**  
+**Currently: PhD Candidate, Utrecht University, 09/2020 - 08/2024 (expected)**  
 **Prospective Thesis Title:** *Democracy and the Business Corporation*  
 **Supervisors:** Rutger Claassen and Maurits de Jongh
 
 **M. A., Ethics - Economics, Law and Politics (EELP), Ruhr-University Bochum, 2017 - 2020.**  
-Overall grade: very good (1,1)  
 **Thesis:** *Corporate Moral Agency. What Corporations Can and Cannot Do.*  
 **Thesis Advisors:** Corinna Mieth and Garrath Williams
 
 **B. A., Philosophy with a minor in Business Studies, Goethe-University Frankfurt, 2013 - 2017.**  
-Overall grade: excellent (1,3)  
 **Thesis:** *Understanding Groups as Agents. Possibilities Regarding Collective Moral Responsibility and Judgements.* (in German)  
 **Thesis Advisor:** Philipp Schink
 
@@ -46,27 +44,29 @@ Overall grade: excellent (1,3)
 
 with Barbara Bziuk: *What Is Wrong with the World Power System and What Can Accounting Do About It?* (contribution to book symposium) Journal of Law and Political Economy, 3(3) (2023) [Link](https://doi.org/10.5070/LP63361150)
 
-## PUBLIC PIECES
+## PUBLIC CONTRIBUTIONS
+
+*Dienstpflicht von unten*, www.praefaktisch.de, 2023. [Link](https://www.praefaktisch.de/002e/dienstpflicht-von-unten/)
 
 with Savriel Dillingh: *Hoe lossen we de wooncrisis op? Drie lessen uit de bedrijfsethiek*, Bij Nader Inzien, 2022. [Link](https://bijnaderinzien.com/2022/02/10/hoe-lossen-we-de-wooncrisis-op/)
 
 *A Match Made in Law? On Corporations and Their Uncomfortable Fit with Democracy*, The American Philosophical Association, 2021. [Link](https://blog.apaonline.org/2021/10/04/a-match-made-in-law-on-corporations-and-their-uncomfortable-fit-with-democracy/)
 
-*Das Berliner Volksbegehren und die politische Theorie des Unternehmens.* www.praefaktisch.de, 2021. [Link](https://www.praefaktisch.de/002e/das-berliner-volksbegehren-und-die-politische-theorie-des-unternehmens/)  
+*Das Berliner Volksbegehren und die politische Theorie des Unternehmens*, www.praefaktisch.de, 2021. [Link](https://www.praefaktisch.de/002e/das-berliner-volksbegehren-und-die-politische-theorie-des-unternehmens/)  
     republished at the blog of agora42 magazine [Link](https://agora42.de/das-berliner-volksbegehren-und-die-politische-theorie-des-unternehmens-philipp-stehr/)
 
-## SERVICE
-
-**Conference Organiser**
+## Conference Organisation
 
 - MANCEPT Workshop *Business Corporations, Non-ideal Theory, and Social Change*, 11 - 12 September 2023, Manchester, with Barbara Bziuk.
 - *Democracy and the Corporation*, 16 - 18 March 2022, Utrecht, with Rutger Claassen.
+
+## SERVICE
 
 **Peer Review** for *Political Theory* and *Journal of Social Philosophy*
 
 ## TEACHING
 
-- 2022 and 2023: *Political Philosophy* introductory course for PPE students. Co-taught with Barbara Bziuk and Rutger Claassen
+- 2022 and 2023: *Political Philosophy* introductory course for PPE students. Co-taught with Barbara Bziuk, Rutger Claassen and Dorothea Gädeke
 
 As teaching assistant:
 
@@ -90,4 +90,4 @@ As teaching assistant:
 - *On Objective Function and Emancipatory Commitment. Lessons on Methodology from the early Frankfurt School* 29 Jun 2021, University of Leeds Graduate Political Theory Conference
 - *Defining the Corporate Demos* 27 Apr 2021, Oxford Graduate Conference in Political Theory
 
-*Last Updated: 2023-09-14*
+*Last Updated: 2023-09-28*
