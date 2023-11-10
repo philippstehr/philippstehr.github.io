@@ -2,7 +2,7 @@
 
 I am a political philosopher working on the political theory of the economic sphere, its institutions and practices. I am currently writing a dissertation at Utrecht University on business corporations and democracy. I have a secondary research interest in early Max Horkheimer, especially his methodological writings.
 
-Before coming to Utrecht I did my BA in Philosophy in Frankfurt and an interdisciplinary MA in "Ethics - Economics, Law and Politics" in Bochum. You can find my full CV [here](https://philippstehr.github.io/CV.html).
+Before coming to Utrecht I did my BA in Philosophy in Frankfurt and an interdisciplinary MA in "Ethics - Economics, Law and Politics" in Bochum. You can find my full CV [here](https://philippstehr.github.io/CV.md).
 
 In case you are at a conference where I am giving a talk, you can find my slides [here](https://philippstehr.github.io/presentations/Presentation.pdf).
 
@@ -11,6 +11,8 @@ You can also find me on [Twitter](https://twitter.com/StehrPhilipp), [BlueSky](h
 ## Dissertation project
 
 Business corporations hold an enormous amount of power towards employees, contractors, customers, and the general public without any democratic control. This runs contrary to basic democratic convictions, so the democratization of business corporations is called for. In my thesis I explore several questions related to this project of democratization. What exactly does it mean to democratize a business corporation? Who should be involved and what kinds of institutional changes are democratic? How can we develop feasible institutional proposals for democratic business corporations? What are feasible institutional proposals and what does 'feasible' even mean in the context of such a fundamental change to our economic infrastructure?
+
+You can find a longer description of my PhD research project [here](https://philippstehr.github.io/Dissertation.md).
 
 ## Papers
 

@@ -90,4 +90,12 @@ As teaching assistant:
 - *On Objective Function and Emancipatory Commitment. Lessons on Methodology from the early Frankfurt School* 29 Jun 2021, University of Leeds Graduate Political Theory Conference
 - *Defining the Corporate Demos* 27 Apr 2021, Oxford Graduate Conference in Political Theory
 
+## LANGUAGES
+
+- German: native reading, writing and speaking
+- English: fluent reading, writing and speaking
+- Spanish: proficient reading, very good speaking and writing
+- Dutch: good reading, writing and speaking
+- French: basic reading, speaking and writing
+
 *Last Updated: 2023-09-28*
