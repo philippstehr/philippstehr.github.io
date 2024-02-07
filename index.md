@@ -1,6 +1,6 @@
 # Philipp Stehr
 
-I am a political philosopher working on the political theory of the economic sphere, its institutions and practices. I am currently writing a dissertation at Utrecht University on business corporations and democracy. I have a secondary research interest in early Max Horkheimer, especially his methodological writings.
+I am a political philosopher working on the political theory of the economic sphere, its institutions and practices. I am currently writing a dissertation at Utrecht University on business corporations and democracy. I also have research interests in the political and social philosophy of resistance and social change as well as methodological issues in political philosophy around ideal vs. non-ideal theory and the status of normative vs. empirical statements.
 
 Before coming to Utrecht I did my BA in Philosophy in Frankfurt and an interdisciplinary MA in "Ethics - Economics, Law and Politics" in Bochum. You can find my full CV [here](https://philippstehr.github.io/CV.html).
 

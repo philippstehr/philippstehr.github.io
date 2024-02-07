@@ -2,12 +2,12 @@
 **Philipp Stehr**  
 Utrecht, Netherlands  
 [pstehr@posteo.de](mailto:pstehr@posteo.de)  
-Website: [https://philippstehr.github.io/](https://philippstehr.github.io/)  
+[https://philippstehr.github.io/](https://philippstehr.github.io/)  
 
 ## AREAS OF INTEREST
 - democratic theory, especially of economic institutions
-- political/social philosophy of resistance to oppression and social change
-- methodological issues, ideal vs. non-ideal theory and normative vs. empirical research
+- political and social philosophy of resistance and social change
+- methodological issues: ideal vs. non-ideal theory and normative vs. empirical research
 
 ## ACADEMIC POSITIONS
 
@@ -22,13 +22,13 @@ Chair of Practical Philosophy, esp. Political Philosophy and Philosophy of Law, 
 
 ## EDUCATION
 
-**Currently: PhD Candidate in Philosophy,** Utrecht University, 09/2020 - 08/2024 (expected)  
+**Currently: PhD Candidate in Philosophy,** Utrecht University, 08/2024 (expected)  
 **Prospective Thesis Title:** *The Democratization of Business Corporations*  
 **Supervisors:** Rutger Claassen and Maurits de Jongh
 
-**M. A., Ethics - Economics, Law and Politics (EELP),** Ruhr-University Bochum, 2017 - 2020
+**M. A. in "Ethics - Economics, Law and Politics (EELP)",** Ruhr-University Bochum, 2020
 
-**B. A., Philosophy with a minor in Business Studies,** Goethe-University Frankfurt, 2013 - 2017
+**B. A. in Philosophy with a minor in Business Studies,** Goethe-University Frankfurt, 2017
 
 ## PEER-REVIEWED PUBLICATIONS
 
