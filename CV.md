@@ -6,6 +6,7 @@ Utrecht, Netherlands
 
 ## AREAS OF INTEREST
 - democratic theory, especially of economic institutions
+- business ethics
 - political and social philosophy of resistance and social change
 - methodological issues: ideal vs. non-ideal theory and normative vs. empirical research
 
