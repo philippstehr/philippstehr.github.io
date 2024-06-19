@@ -12,7 +12,7 @@ Utrecht, Netherlands
 
 ## ACADEMIC POSITIONS
 
-**Currently: PhD Candidate,** Utrecht University, 09/2020 - 10/2024  
+**Currently: PhD Researcher,** Utrecht University, 09/2020 - 10/2024  
 Full-time position in Rutger Claassen's ERC project *The Business Corporation as a Political Actor*
 
 **Visiting Research Fellow,** Brown University, 09/2022 - 12/2022  
@@ -23,8 +23,8 @@ Chair of Practical Philosophy, esp. Political Philosophy and Philosophy of Law, 
 
 ## EDUCATION
 
-**Currently: PhD Candidate in Philosophy,** Utrecht University, 08/2024 (expected)  
-**Prospective Thesis Title:** *The Democratization of Business Corporations*  
+**Currently: PhD Candidate in Philosophy,** Utrecht University  
+**Thesis Title:** *The Democratization of Business Corporations.* Submitted 06/2024.  
 **Supervisors:** Rutger Claassen and Maurits de Jongh
 
 **M. A. in "Ethics - Economics, Law and Politics (EELP)",** Ruhr-University Bochum, 2020
@@ -41,7 +41,9 @@ Chair of Practical Philosophy, esp. Political Philosophy and Philosophy of Law, 
 
 *On a problem for workplace democracy and its solution via a workers' dictatorship.* Under review.
 
-*The Democratization of Business Corporations.* Thesis Manuscript
+*A Democratic Right to Political Strikes.* Submission planned for September 2024.
+
+*A Right to Strike for Democratic Corporations?* Submission planned for September 2024.
 
 ## OTHER ACADEMIC WRITING
 
@@ -80,16 +82,19 @@ As teaching assistant at Ruhr-University Bochum:
 
 ## PRESENTATIONS
 
-- *On a problem for workplace democracy and its solution via a workers' dictatorship* 16 Jun 2023, 13th Braga meetings on Ethics and Political Philosophy
-- *On a problem for workplace democracy and its solution via a workers' dictatorship* 8 Jun 2023, EURO-DEM Workshop: “Varieties of Workplace Democracy: from specific models to a political economy”
-- *On a problem for workplace democracy and its solution via a workers' dictatorship* 2 Jun 2023, OZSW Annual Conference
-- *On a problem for workplace democracy and its solution via a workers' dictatorship* 25 May 2023, Workshop für politische Philosophie, Düsseldorf
+- *On a problem for workplace democracy and its solution via a workers' dictatorship* 
+    - 16 Jun 2023, 13th Braga meetings on Ethics and Political Philosophy
+    - 8 Jun 2023, EURO-DEM Workshop: “Varieties of Workplace Democracy: from specific models to a political economy”
+    - 2 Jun 2023, OZSW Annual Conference
+    - 25 May 2023, Workshop für politische Philosophie, Düsseldorf
 - *How to think about democratizing business corporations* 17 Feb 2023, Geneva Graduate Conference in Political Philosophy
-- *Expropriation as a Measure of Corporate Reform - Learning from the Berlin Initiative* 13 Jul 2022, Association for Social and Political Philosophy (ASPP) Annual Conference 2022
-- *Expropriation as a Measure of Corporate Reform - Learning from the Berlin Initiative* 13 May 2022, Utrecht Philosophy Graduate Conference
-- *Wer bildet den demos in einem demokratischen Unternehmen?* 1 Oct 2021, VIII. Tagung für praktische Philosophie, Salzburg
+- *Expropriation as a Measure of Corporate Reform - Learning from the Berlin Initiative* 
+    - 13 Jul 2022, Association for Social and Political Philosophy (ASPP) Annual Conference 2022
+    -  13 May 2022, Utrecht Philosophy Graduate Conference
+- *Defining the Corporate Demos for Democratic Corporations* 
+    - 27 Apr 2021, Oxford Graduate Conference in Political Theory
+    - 1 Oct 2021, VIII. Tagung für praktische Philosophie, Salzburg
 - *On Objective Function and Emancipatory Commitment. Lessons on Methodology from the early Frankfurt School* 29 Jun 2021, University of Leeds Graduate Political Theory Conference
-- *Defining the Corporate Demos* 27 Apr 2021, Oxford Graduate Conference in Political Theory
 
 ## LANGUAGES
 

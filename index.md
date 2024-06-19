@@ -1,12 +1,14 @@
 # Philipp Stehr
 
-I am a political philosopher mainly working on the political theory of the economic sphere. I am currently writing a dissertation on business corporations and democracy at Utrecht University where I am part of the [Corporatocracy project](https://businesscorporation.sites.uu.nl/). I also have research interests in business ethics, the political and social philosophy of resistance and social change, as well as methodological issues in political philosophy around ideal and non-ideal theory and the status of normative vs. empirical statements.
+I am a political philosopher working on the political theory of the economic sphere. I am particularly interested in what a commitment to democracy means for economic institutions. I work at Utrecht University where I am part of the [Corporatocracy project](https://businesscorporation.sites.uu.nl/)
+
+I have written a dissertation on business corporations and democracy. You can find out more about that below. I also have research interests in business ethics, the political and social philosophy of resistance and social change, as well as methodological issues in political philosophy around ideal and non-ideal theory and the status of normative vs. empirical statements.
 
 Before coming to Utrecht I did my BA in Philosophy in Frankfurt and an interdisciplinary MA in "Ethics - Economics, Law and Politics" in Bochum. You can find my full CV [here](https://philippstehr.github.io/CV.html).
 
 In case you are currently listening to me giving a talk, you can find my slides [here](https://philippstehr.github.io/presentations/Presentation.pdf).
 
-You can also find me on [BlueSky](https://bsky.app/profile/philippstehr.bsky.social).
+You can also find me on [BlueSky](https://bsky.app/profile/philippstehr.bsky.social) or get in touch via e-mail: philippstehr at posteo dot de
 
 ## Dissertation project
 
