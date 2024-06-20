@@ -1,6 +1,8 @@
 # Philipp Stehr
 
-I am a political philosopher working on the political theory of the economic sphere. I am particularly interested in what a commitment to democracy means for economic institutions. I work at Utrecht University where I am part of the [Corporatocracy project](https://businesscorporation.sites.uu.nl/)
+I am a political philosopher working on the political theory of the economic sphere. I am particularly interested in what a commitment to democracy means for economic institutions. I pursue my research in the spirit of realism and with a special concern for empirical grounding. I strive to clarify abstract normative claims through their application to real examples and through spelling out their meaning in real life.
+
+I currently work [at Utrecht University](https://www.uu.nl/staff/PHStehr) where I am part of the [Corporatocracy project](https://businesscorporation.sites.uu.nl/)
 
 I have written a dissertation on business corporations and democracy. You can find out more about that below. I also have research interests in business ethics, the political and social philosophy of resistance and social change, as well as methodological issues in political philosophy around ideal and non-ideal theory and the status of normative vs. empirical statements.
 
