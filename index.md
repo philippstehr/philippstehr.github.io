@@ -10,7 +10,7 @@ Before coming to Utrecht I did my BA in Philosophy in Frankfurt and an interdisc
 
 In case you are currently listening to me giving a talk, you can find my slides [here](https://philippstehr.github.io/presentations/Presentation.pdf).
 
-You can also find me on [BlueSky](https://bsky.app/profile/philippstehr.bsky.social) or get in touch via e-mail: philippstehr at posteo dot de
+You can get in touch with me via e-mail: philippstehr at posteo dot de
 
 ## Dissertation project
 
