@@ -1,10 +1,8 @@
 # Philipp Stehr
 
-I am a political philosopher working on the political theory of the economic sphere. I am particularly interested in what a commitment to democracy means for economic institutions. I pursue my research in the spirit of realism and with a special concern for empirical grounding. I strive to clarify abstract normative claims through their application to real examples and through spelling out their meaning in real life.
+I am a political philosopher working on the political theory of the economic sphere. I am particularly interested in what a commitment to democracy means for economic institutions. I also have research interests in business ethics and the political and social philosophy of resistance and social change. I pursue my research in the spirit of realism and with a special concern for empirical grounding. I strive to clarify abstract normative claims through their application to real examples and through spelling out their meaning in real life.
 
-I currently work [at Utrecht University](https://www.uu.nl/staff/PHStehr) where I am part of the [Corporatocracy project](https://businesscorporation.sites.uu.nl/)
-
-I have written a dissertation on business corporations and democracy. You can find out more about that below. I also have research interests in business ethics, the political and social philosophy of resistance and social change, as well as methodological issues in political philosophy around ideal and non-ideal theory and the status of normative vs. empirical statements.
+I currently work [at Utrecht University](https://www.uu.nl/staff/PHStehr) where I am part of the [Corporatocracy project](https://businesscorporation.sites.uu.nl/).
 
 Before coming to Utrecht I did my BA in Philosophy in Frankfurt and an interdisciplinary MA in "Ethics - Economics, Law and Politics" in Bochum. You can find my full CV [here](https://philippstehr.github.io/CV.html).
 
@@ -14,7 +12,7 @@ You can get in touch with me via e-mail: philippstehr at posteo dot de
 
 ## Dissertation project
 
-Business corporations hold an enormous amount of power towards employees, contractors, customers, and the general public without any democratic control. This runs contrary to basic democratic convictions, so the democratization of business corporations is called for. In my thesis I explore several questions related to this project of democratization. What exactly does it mean to democratize a business corporation? Who should be involved and what kinds of institutional changes are democratic? How can we develop feasible institutional proposals for democratic business corporations? What are feasible institutional proposals and what does 'feasible' even mean in the context of such a fundamental change to our economic infrastructure?
+I wrote my dissertation on the democratization of business corporations. Business corporations hold an enormous amount of power towards employees, contractors, customers, and the general public without any democratic control. This runs contrary to basic democratic convictions, so the democratization of business corporations is called for. In my thesis I explore several questions related to this project of democratization. What exactly does it mean to democratize a business corporation? Who should be involved and what kinds of institutional changes are democratic? How can we develop feasible institutional proposals for democratic business corporations? What are feasible institutional proposals and what does 'feasible' even mean in the context of such a fundamental change to our economic infrastructure?
 
 You can find a longer description of my PhD research project [here](https://philippstehr.github.io/Dissertation.html).
 
@@ -36,9 +34,11 @@ with Savriel Dillingh: *Hoe lossen we de wooncrisis op? Drie lessen uit de bedri
 
 ## Teaching
 
-In 2022 and 2023 I have co-taught an Introduction to Political Philosophy for PPE students at Utrecht.
+In the Academic Year 2024/25 I'll be teaching a range of graduate and undergraduate courses in the Philosophy, PPE, and Applied Ethics programs at Utrecht.
 
-From 2018 to 2020 I was a research and teaching assistant for a range of courses at Ruhr-University Bochum, including an introductory lecture on Ethics and seminars on legitimacy, Kant, a Univeral Basic Income, and other topics in political philosophy.
+In 2022 and 2023 I have co-taught an Introduction to Political Philosophy for undergraduate PPE students at Utrecht.
+
+From 2018 to 2020 I was a research and teaching assistant for a range of courses at Ruhr-University Bochum, including an introductory lecture on Ethics and graduate seminars on legitimacy, Kant, a Univeral Basic Income, and other topics in political philosophy.
 
 Students can find some basic tips for studying philosophy [here](https://philippstehr.github.io/StudentResources.html).
 

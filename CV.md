@@ -5,14 +5,15 @@ Utrecht, Netherlands
 [https://philippstehr.github.io/](https://philippstehr.github.io/)  
 
 ## AREAS OF INTEREST
-- democratic theory, especially of economic institutions
+- political philosophy, especially of economic institutions
 - business ethics
 - political and social philosophy of resistance and social change
-- methodological issues: ideal vs. non-ideal theory and normative vs. empirical research
 
 ## ACADEMIC POSITIONS
 
-**Currently: PhD Researcher,** Utrecht University, 09/2020 - 10/2024  
+**Teaching Fellow** (*Docent*), Utrecht University, 11/2024 - 08/2025
+
+**PhD Researcher,** Utrecht University, 09/2020 - 10/2024  
 Full-time position in Rutger Claassen's ERC project *The Business Corporation as a Political Actor*
 
 **Visiting Research Fellow,** Brown University, 09/2022 - 12/2022  
@@ -23,9 +24,7 @@ Chair of Practical Philosophy, esp. Political Philosophy and Philosophy of Law, 
 
 ## EDUCATION
 
-**Currently: PhD Candidate in Philosophy,** Utrecht University  
-**Thesis Title:** *The Democratization of Business Corporations.* Submitted 06/2024.  
-**Supervisors:** Rutger Claassen and Maurits de Jongh
+**PhD in Philosophy,** Utrecht University. Thesis approved by committee June 25th 2024, ceremonial defense January 10th 2025.  
 
 **M. A. in "Ethics - Economics, Law and Politics (EELP)",** Ruhr-University Bochum, 2020
 
@@ -41,9 +40,11 @@ Chair of Practical Philosophy, esp. Political Philosophy and Philosophy of Law, 
 
 *On a problem for workplace democracy and its solution via a workers' dictatorship.* Under review.
 
+*A Right to Strike for Democratic Corporations?* Under review.
+
 *A Democratic Right to Political Strikes.* Submission planned for September 2024.
 
-*A Right to Strike for Democratic Corporations?* Submission planned for September 2024.
+*Social Membership in Firms and the Ethics of Dismissal.* Co-authored with Daniel Sharp
 
 ## OTHER ACADEMIC WRITING
 
@@ -66,11 +67,17 @@ with Savriel Dillingh: *Hoe lossen we de wooncrisis op? Drie lessen uit de bedri
 
 ## SERVICE
 
-**Peer Review** for *Political Theory*, *Journal of Social Philosophy* and *Erasmus Journal for Philosophy and Economics*
+Peer Review for:
+- *Political Theory* (2023)
+- *Journal of Social Philosophy* (2023, 2024)
+- *Erasmus Journal for Philosophy and Economics* (2024)
 
 ## TEACHING
 
-- 2022 and 2023: *Political Philosophy* introductory course for PPE students. Co-taught with Barbara Bziuk, Rutger Claassen (2023) and Dorothea Gädeke (2022)
+At Utrecht University
+
+- *Ethics and Public Policy* (Applied Ethics MA). Co-taught with Frans Brom (Fall 2024)
+- *Political Philosophy* (PPE BA). Co-taught with Barbara Bziuk, Rutger Claassen (Spring 2023) and Dorothea Gädeke (Spring 2022)
 
 As teaching assistant at Ruhr-University Bochum:
 
