@@ -1,8 +1,6 @@
 # CURRICULUM VITAE
 **Philipp Stehr**  
 Utrecht, Netherlands  
-[pstehr@posteo.de](mailto:pstehr@posteo.de)  
-[https://philippstehr.github.io/](https://philippstehr.github.io/)  
 
 ## AREAS OF INTEREST
 - political philosophy, especially of economic institutions
@@ -101,7 +99,6 @@ As teaching assistant at Ruhr-University Bochum:
 - *Defining the Corporate Demos for Democratic Corporations* 
     - 27 Apr 2021, Oxford Graduate Conference in Political Theory
     - 1 Oct 2021, VIII. Tagung für praktische Philosophie, Salzburg
-- *On Objective Function and Emancipatory Commitment. Lessons on Methodology from the early Frankfurt School* 29 Jun 2021, University of Leeds Graduate Political Theory Conference
 
 ## LANGUAGES
 
