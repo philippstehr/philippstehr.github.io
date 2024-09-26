@@ -40,9 +40,9 @@ Chair of Practical Philosophy, esp. Political Philosophy and Philosophy of Law, 
 
 *A Right to Strike for Democratic Corporations?* Under review.
 
-*A Democratic Right to Political Strikes.* Submission planned for September 2024.
+*A Democratic Right to Political Strikes.* Complete Draft. Submission planned for November 2024.
 
-*Social Membership in Firms and the Ethics of Dismissal.* Co-authored with Daniel Sharp
+*Social Membership in Firms and the Ethics of Dismissal.* Co-authored with Daniel Sharp. Manuscript in preparation.
 
 ## OTHER ACADEMIC WRITING
 
@@ -87,7 +87,14 @@ As teaching assistant at Ruhr-University Bochum:
 
 ## PRESENTATIONS
 
+- *A Democratic Right to Political Strikes*
+    - 23 September 2024, Deutscher Kongress für Philosophie, Münster
+    - 30 August 2024, OZSW Annual Conference, Eindhoven
+- *Fighting Organizational Degeneration through a Right to Strike in Democratic Corporations* 
+    - 11 July 2024, Association for Social and Political Philosophy (ASPP) Annual Conference 2024, Swansea
+    - 5 July 2024, Workshop für politische Philosophie, Düsseldorf
 - *On a problem for workplace democracy and its solution via a workers' dictatorship* 
+    - 12 August 2024, ECPR General Conference, Dublin
     - 16 Jun 2023, 13th Braga meetings on Ethics and Political Philosophy
     - 8 Jun 2023, EURO-DEM Workshop: “Varieties of Workplace Democracy: from specific models to a political economy”
     - 2 Jun 2023, OZSW Annual Conference
