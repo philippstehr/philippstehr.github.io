@@ -1,8 +1,8 @@
 # Philipp Stehr
 
-I am a political philosopher working on the political theory of the economic sphere. I am particularly interested in what a commitment to democracy means for economic institutions. I also have research interests in business ethics and the political and social philosophy of resistance and social change. I pursue my research in the spirit of realism and with a special concern for empirical grounding. I strive to clarify abstract normative claims through their application to real examples and through spelling out their meaning in real life.
+I am a political philosopher working on the political theory of the economic sphere. I am particularly interested in what a commitment to democracy means for economic institutions. I also have research interests in business ethics and the political and social philosophy of resistance and social change. I pursue my research in the spirit of realism and with a special concern for empirical grounding. I strive to clarify abstract normative claims through their application to real examples and through spelling out their meaning in real life. I work on issues like workplace democracy, expropriation, and strikes.
 
-I currently work [at Utrecht University](https://www.uu.nl/staff/PHStehr) where I am part of the [Corporatocracy project](https://businesscorporation.sites.uu.nl/).
+I am currently a Teaching Fellow [at Utrecht University](https://www.uu.nl/staff/PHStehr) where I previously did my PhD and was part of the [Corporatocracy project](https://businesscorporation.sites.uu.nl/).
 
 Before coming to Utrecht I did my BA in Philosophy in Frankfurt and an interdisciplinary MA in "Ethics - Economics, Law and Politics" in Bochum. You can find my full CV [here](https://philippstehr.github.io/CV.html).
 
