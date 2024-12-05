@@ -9,7 +9,7 @@ Utrecht, Netherlands
 
 ## ACADEMIC POSITIONS
 
-**Teaching Fellow** (*Docent*), Utrecht University, 11/2024 - 08/2025
+**Fixed-term lecturer** (*Docent*), Utrecht University, 11/2024 - 08/2025
 
 **PhD Researcher,** Utrecht University, 09/2020 - 10/2024  
 Full-time position in Rutger Claassen's ERC project *The Business Corporation as a Political Actor*
