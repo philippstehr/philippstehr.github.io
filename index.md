@@ -1,6 +1,6 @@
 # Philipp Stehr
 
-I am a political philosopher working on the political theory of the economic sphere. I am particularly interested in what a commitment to democracy means for economic institutions. I also have research interests in business ethics and the political and social philosophy of resistance and social change. I pursue my research in the spirit of realism and with a special concern for empirical grounding. I strive to clarify abstract normative claims through their application to real examples and through spelling out their meaning in real life. I work on issues like workplace democracy, expropriation, and strikes.
+I am a political philosopher working on the political theory of the economic sphere. I am particularly interested in what a commitment to democracy means for economic institutions. I also have research interests in business ethics and the political and social philosophy of resistance and social change. I pursue my research in the spirit of realism and with a special concern for empirical grounding. I strive to clarify abstract normative claims through their application to real examples and through spelling out their meaning in real life. I work on issues like workers' rights, workplace democracy, and strikes.
 
 I am currently a fixed-term lecturer [at Utrecht University](https://www.uu.nl/staff/PHStehr) where I previously did my PhD and was part of the [Corporatocracy project](https://businesscorporation.sites.uu.nl/).
 
@@ -14,7 +14,7 @@ You can get in touch with me via e-mail: philippstehr at posteo dot de
 
 I wrote my dissertation on the democratization of business corporations. Business corporations hold an enormous amount of power towards employees, contractors, customers, and the general public without any democratic control. This runs contrary to basic democratic convictions, so the democratization of business corporations is called for. In my thesis I explore several questions related to this project of democratization. What exactly does it mean to democratize a business corporation? Who should be involved and what kinds of institutional changes are democratic? How can we develop feasible institutional proposals for democratic business corporations? What are feasible institutional proposals and what does 'feasible' even mean in the context of such a fundamental change to our economic infrastructure?
 
-You can find a longer description of my PhD research project [here](https://philippstehr.github.io/Dissertation.html).
+You can find the full PDF of my dissertation [here](https://doi.org/10.33540/2490).
 
 ## Papers
 
