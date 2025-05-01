@@ -9,20 +9,19 @@ Utrecht, Netherlands
 
 ## ACADEMIC POSITIONS
 
-**Fixed-term lecturer** (*Docent*), Utrecht University, 11/2024 - 08/2025
+since 04/2025: wissenschaftlicher Mitarbeiter (Postdoc), Munich School for Politics and Public Policy, Technical University of Munich
 
-**PhD Researcher,** Utrecht University, 09/2020 - 10/2024  
-Full-time position in Rutger Claassen's ERC project *The Business Corporation as a Political Actor*
+11/2024 - 07/2025: Docent (Fixed-term lecturer), Ethics Institute, Utrecht University
 
-**Visiting Research Fellow,** Brown University, 09/2022 - 12/2022  
-Host: Alex Gourevitch
+09/2020 - 10/2024: PhD Researcher, Utrecht University. Full-time position in Rutger Claassen’s ERC project ``The Business Corporation as a Political Actor''
 
-**Teaching and Research Assistant,** Ruhr-University Bochum, 04/2018 - 08/2020  
-Chair of Practical Philosophy, esp. Political Philosophy and Philosophy of Law, Prof. Corinna Mieth.    
+09/2022 - 12/2022: Visiting Research Fellow, Brown University. Host: Alex Gourevitch
+
+04/2018 - 08/2020: Teaching and Research Assistant, Ruhr-University Bochum. Chair of Practical Philosophy, esp. Political Philosophy and Philosophy of Law, Prof. Corinna Mieth
 
 ## EDUCATION
 
-**PhD in Philosophy,** Utrecht University. Thesis approved by committee June 25th 2024, ceremonial defense January 10th 2025.  
+**PhD in Philosophy,** Utrecht University, 2025. Thesis Title: *Democratizing Business Corporations. An Exercise in Transitional Theory.* [Available online](https://doi.org/10.33540/2490) Supervisors: Rutger Claassen and Maurits de Jongh. Examination committee: Alex Gourevitch, Christian Neuhäuser, Ingrid Robeyns, Lisa Herzog and Mauro Bonazzi
 
 **M. A. in "Ethics - Economics, Law and Politics (EELP)",** Ruhr-University Bochum, 2020
 
@@ -40,7 +39,7 @@ Chair of Practical Philosophy, esp. Political Philosophy and Philosophy of Law, 
 
 *A Right to Strike for Democratic Corporations?* Under review.
 
-*A Democratic Right to Political Strikes.* Complete Draft. Submission planned for November 2024.
+*A Democratic Right to Political Strikes.* Under review.
 
 *Social Membership in Firms and the Ethics of Dismissal.* Co-authored with Daniel Sharp. Manuscript in preparation.
 
@@ -67,13 +66,20 @@ with Savriel Dillingh: *Hoe lossen we de wooncrisis op? Drie lessen uit de bedri
 
 Peer Review for:
 - *Political Theory* (2023)
-- *Journal of Social Philosophy* (2023, 2024)
-- *Erasmus Journal for Philosophy and Economics* (2024)
+- *Journal of Social Philosophy* (2023, 2024, 2025)
+- *Erasmus Journal for Philosophy and Economics* (2023, 2024)
+- Critical Horizons (2024)
 
 ## TEACHING
 
 At Utrecht University
 
+- *Uncivil Resistance* (Applied Ethics MA, Philosophy MA); course design and coordination. (Spring 2025)
+- Bachelor thesis supervision (Spring 2025)
+- *Metaethics* (Philosophy BA); seminar teacher, co-taught with Janis Schaab (Spring 2025)
+- *Introduction to Practical Ethics* (Philosophy minor); seminar teacher, co-taught with Pepijn Al and Uwe Peters (Spring 2025)
+- *Ethics and Public Policy* (PPE BA); seminar teacher; co-taught with Yara Al Salman and Lila Braunschweig (Fall 2024)
+- *History and Philosophy of the Welfare State* (PPE BA minor); course coordinator, lecturer and seminar teacher; Interdisciplinary course co-taught with Esther Baakman (History) (Fall 2024)
 - *Ethics and Public Policy* (Applied Ethics MA). Co-taught with Frans Brom (Fall 2024)
 - *Political Philosophy* (PPE BA). Co-taught with Barbara Bziuk, Rutger Claassen (Spring 2023) and Dorothea Gädeke (Spring 2022)
 
