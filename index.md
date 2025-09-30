@@ -1,9 +1,12 @@
 # Philipp Stehr
 
-I am a political philosopher working on the political theory of the economic sphere. I am currently working on two main research projects. The first is concerned with what a commitment to democracy means for economic institutions. The second is a project on political resistance, again with a particular focus on the economic sphere. Besides these two projects I have some broader research interests in business ethics and political philosophy, working on issues like workers' rights.
-I pursue my research in the spirit of realism and with a special concern for empirical grounding. I strive to clarify abstract normative claims through their application to real examples and through spelling out their meaning in real life.
+I am a researcher working in ethics and political philosophy. Most of my work is motivated by the question what a commitment to democracy means for the design of economic institutions. For instance, how do basic political rights bear on what business corporations should look like? This interest has lead me to work on a variety of topics like labour rights, strikes, expropriation, and workplace democracy.
 
-I am currently a postdoc [at the Munich School of Politics and Public Policy](https://www.hfp.tum.de/en/theory/team/). Until July 2025 I was a fixed-term lecturer [at Utrecht University](https://www.uu.nl/staff/PHStehr) where I previously did my PhD and was part of the [Corporatocracy project](https://businesscorporation.sites.uu.nl/). I did my BA in Philosophy in Frankfurt and an interdisciplinary MA in "Ethics - Economics, Law and Politics" in Bochum. You can find my full CV [here](https://philippstehr.github.io/CV.pdf).
+I am currently working on two main research projects. The first is concerned with developing some of the institutional details of workplace democracy. If we accept that employees should have more of a say at work, what exactly should those more democratic workplaces look like? The second is a project on political resistance, again with a particular focus on the economic sphere. If we think that economic institutions are flawed in certain ways (unjust, undemocratic, etc.), what are citizens morally permitted to do about it?
+
+One important commitment in my pursuit of these research projects is a special concern for empirical grounding. I strive to clarify abstract normative claims through their application to real examples and through spelling out their meaning in real life, closely integrating case studies as well as results from empirical social science.
+
+I am currently a postdoc [at the Munich School of Politics and Public Policy](https://www.hfp.tum.de/en/theory/team/). Until July 2025 I was a fixed-term lecturer [at Utrecht University](https://www.uu.nl/en/research/ethics-institute) where I previously did my PhD and was part of the [Corporatocracy project](https://businesscorporation.sites.uu.nl/). I did my BA in Philosophy in Frankfurt and an interdisciplinary MA in "Ethics - Economics, Law and Politics" in Bochum. You can find my full CV [here](https://philippstehr.github.io/CV.pdf).
 
 In case you are currently listening to me giving a talk, you can find my slides [here](https://philippstehr.github.io/presentations/Presentation.pdf).
 
@@ -11,18 +14,20 @@ You can get in touch with me via e-mail: philippstehr at posteo dot de
 
 ## Papers
 
-*Expropriation as a measure of corporate reform - learning from the Berlin initiative.* European Journal of Political Theory, Online First. [Link (Open Access)](https://journals.sagepub.com/doi/10.1177/14748851231197799)
+*A Democratic Right to Political Strikes.* Political Philosophy 2(2): 575-604. [Link (Open Access)](https://doi.org/10.16995/pp.18607)
 
-*The Boundary Problem in Workplace Democracy: Who Constitutes the Corporate Demos?* Political Theory, 51(3), 507-529. [Link (Open Access)](https://journals.sagepub.com/doi/10.1177/00905917221131821)
+*Expropriation as a measure of corporate reform - learning from the Berlin initiative.* European Journal of Political Theory, 24(1): 70-91. [Link (Open Access)](https://journals.sagepub.com/doi/10.1177/14748851231197799)
+
+*The Boundary Problem in Workplace Democracy: Who Constitutes the Corporate Demos?* Political Theory, 51(3): 507-529. [Link (Open Access)](https://journals.sagepub.com/doi/10.1177/00905917221131821)
 
 ## Work in Progress
 
 *If you work on similar issues and would like to get in touch to exchange ideas, give feedback or just have a chat, please do so!*
 
-- A paper on political strikes, arguing that they are morally justified as tools for the defense of political rights (Under review)
 - A paper on strikes in democratic corporations, arguing that they are valuable tools to avoid common problems with democratic economic institutions (Under review)
 - A paper on whether it is permissible to force managers to help with making business corporations more democratic
 - Two papers on the ethics of dismissal in undemocratic and democratic corporations (with Daniel Sharp)
+- A paper defending a conflictual and political account of intra-corporate politics, arguing that unions should play more of a role in corporate governance (with Chi Kwok; under review)
 
 ## Dissertation project
 
@@ -42,9 +47,9 @@ with Savriel Dillingh: *Hoe lossen we de wooncrisis op? Drie lessen uit de bedri
 
 ## Teaching
 
-In the summer term 2025 I'll be co-teaching a course on democratic innovations at TU Munich. In the Academic Year 2024/25 I've also been teaching a range of graduate and undergraduate courses in the Philosophy, PPE, and Applied Ethics programs at Utrecht.
+In the fall term 2025/6, I will be teaching in the introduction to political theory as well as a seminar on political resistance and a seminar on the political theory of Big Tech.
 
-In 2022 and 2023 I have co-taught an Introduction to Political Philosophy for undergraduate PPE students at Utrecht.
+In the summer term 2025 I taught a course on democratic innovations at TU Munich. In the Academic Year 2024/25 I've also been teaching a range of graduate and undergraduate courses in the Philosophy, PPE, and Applied Ethics programs at Utrecht. In 2022 and 2023 I have co-taught an Introduction to Political Philosophy for undergraduate PPE students at Utrecht.
 
 From 2018 to 2020 I was a research and teaching assistant for a range of courses at Ruhr-University Bochum, including an introductory lecture on Ethics and graduate seminars on legitimacy, Kant, a Univeral Basic Income, and other topics in political philosophy.
 
