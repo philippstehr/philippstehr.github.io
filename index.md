@@ -1,6 +1,6 @@
 # Philipp Stehr
 
-I am a researcher working in ethics and political philosophy. Most of my work is motivated by the question what a commitment to democracy means for the design of economic institutions. For instance, how do basic political rights bear on what business corporations should look like? This interest has lead me to work on a variety of topics like labour rights, strikes, expropriation, and workplace democracy.
+I am a researcher working in ethics and political philosophy. Much of my work is motivated by the question what a commitment to democracy means for the design of economic institutions. For instance, how do basic political rights bear on what business corporations should look like? This interest has lead me to work on a variety of topics like labour rights, strikes, expropriation, and workplace democracy.
 
 I am currently working on two main research projects. The first is concerned with developing some of the institutional details of workplace democracy. If we accept that employees should have more of a say at work, what exactly should those more democratic workplaces look like? The second is a project on political resistance, again with a particular focus on the economic sphere. If we think that economic institutions are flawed in certain ways (unjust, undemocratic, etc.), what are citizens morally permitted to do about it?
 
