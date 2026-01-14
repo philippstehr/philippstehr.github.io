@@ -6,7 +6,7 @@ I am currently working on two main research projects. The first is concerned wit
 
 One important commitment in my pursuit of these research projects is a special concern for empirical grounding. I strive to clarify abstract normative claims through their application to real examples and through spelling out their meaning in real life, closely integrating case studies as well as results from empirical social science.
 
-I am currently a postdoc [at the Munich School of Politics and Public Policy](https://www.hfp.tum.de/en/theory/team/). Until July 2025 I was a fixed-term lecturer [at Utrecht University](https://www.uu.nl/en/research/ethics-institute) where I previously did my PhD and was part of the [Corporatocracy project](https://businesscorporation.sites.uu.nl/). I did my BA in Philosophy in Frankfurt and an interdisciplinary MA in "Ethics - Economics, Law and Politics" in Bochum. You can find my full CV [here](https://philippstehr.github.io/CV.pdf).
+I am currently a postdoc [at the Munich School of Politics and Public Policy](https://www.hfp.tum.de/en/theory/team/) and a founding lab member of the [Democratic Innovations Lab at the TUM Think Tank](https://tumthinktank.de/en/project/democratic-innovations-lab/). Until July 2025 I was a fixed-term lecturer [at Utrecht University](https://www.uu.nl/en/research/ethics-institute) where I previously did my PhD and was part of the [Corporatocracy project](https://businesscorporation.sites.uu.nl/). I did my BA in Philosophy in Frankfurt and an interdisciplinary MA in "Ethics - Economics, Law and Politics" in Bochum. You can find my full CV [here](https://philippstehr.github.io/CV.pdf).
 
 In case you are currently listening to me giving a talk, you can find my slides [here](https://philippstehr.github.io/presentations/Presentation.pdf).
 
@@ -29,7 +29,7 @@ You can get in touch with me via e-mail: philippstehr at posteo dot de
 - Two papers on the ethics of dismissal in undemocratic and democratic corporations (with Daniel Sharp)
 - A paper defending a conflictual and political account of intra-corporate politics, arguing that unions should play more of a role in corporate governance (with Chi Kwok; under review)
 
-## Dissertation project
+## Dissertation
 
 I wrote my dissertation on the democratization of business corporations. Business corporations hold an enormous amount of power towards employees, contractors, customers, and the general public without any democratic control. This runs contrary to basic democratic convictions, so the democratization of business corporations is called for. In my thesis I explore several questions related to this project of democratization. What exactly does it mean to democratize a business corporation? Who should be involved and what kinds of institutional changes are democratic? How can we develop feasible institutional proposals for democratic business corporations? What are feasible institutional proposals and what does 'feasible' even mean in the context of such a fundamental change to our economic infrastructure?
 
@@ -54,6 +54,10 @@ In the summer term 2025 I taught a course on democratic innovations at TU Munich
 From 2018 to 2020 I was a research and teaching assistant for a range of courses at Ruhr-University Bochum, including an introductory lecture on Ethics and graduate seminars on legitimacy, Kant, a Univeral Basic Income, and other topics in political philosophy.
 
 Students can find some basic tips for studying philosophy [here](https://philippstehr.github.io/StudentResources.html).
+
+Below you can find some syllabi of courses I (co-)designed and taught in the past:
+
+[Course name](https://philippstehr.github.io/syllabi/filename.pdf)
 
 ## Imprint
 
