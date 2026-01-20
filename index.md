@@ -47,7 +47,7 @@ with Savriel Dillingh: *Hoe lossen we de wooncrisis op? Drie lessen uit de bedri
 
 ## Teaching
 
-In the fall term 2025/6, I will be teaching in the introduction to political theory as well as a seminar on political resistance and a seminar on the political theory of Big Tech.
+Since the fall term 2025/6 I am teaching introductory and advanced courses in political philosophy and ethics in the BA Political Science and the MA Politics & Technology at TUM. 
 
 In the summer term 2025 I taught a course on democratic innovations at TU Munich. In the Academic Year 2024/25 I've also been teaching a range of graduate and undergraduate courses in the Philosophy, PPE, and Applied Ethics programs at Utrecht. In 2022 and 2023 I have co-taught an Introduction to Political Philosophy for undergraduate PPE students at Utrecht.
 
