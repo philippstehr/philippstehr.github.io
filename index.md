@@ -57,7 +57,8 @@ Students can find some basic tips for studying philosophy [here](https://philipp
 
 Below you can find some syllabi of courses I (co-)designed and taught in the past:
 
-[Course name](https://philippstehr.github.io/syllabi/filename.pdf)
+- [The Political Theory of Big Tech. Seminar MA Politics & Technology](https://philippstehr.github.io/syllabi/PoliticsPowerBigTech.pdf)
+- [Power, Injustice and Resistance. Seminar BA Political Science](https://philippstehr.github.io/syllabi/Resistance_BA.pdf)
 
 ## Imprint
 
