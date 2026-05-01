@@ -14,7 +14,9 @@ You can get in touch with me via e-mail: philippstehr at posteo dot de
 
 ## Papers
 
-*A Democratic Right to Political Strikes.* Political Philosophy 2(2): 575-604. [Link (Open Access)](https://doi.org/10.16995/pp.18607)
+*Fighting Organizational Degeneration Through a Right to Strike in Democratic Corporations.* Journal of Social Philosophy, Early View. [Link (Open Access)](https://onlinelibrary.wiley.com/doi/abs/10.1111/josp.70053)
+
+*A Democratic Right to Political Strikes.* Political Philosophy, 2(2): 575-604. [Link (Open Access)](https://doi.org/10.16995/pp.18607)
 
 *Expropriation as a measure of corporate reform - learning from the Berlin initiative.* European Journal of Political Theory, 24(1): 70-91. [Link (Open Access)](https://journals.sagepub.com/doi/10.1177/14748851231197799)
 
@@ -24,8 +26,7 @@ You can get in touch with me via e-mail: philippstehr at posteo dot de
 
 *If you work on similar issues and would like to get in touch to exchange ideas, give feedback or just have a chat, please do so!*
 
-- A paper on strikes in democratic corporations, arguing that they are valuable tools to avoid common problems with democratic economic institutions (Under review)
-- A paper on whether it is permissible to force managers to help with making business corporations more democratic
+- A paper on whether it is permissible to force managers to help with making business corporations more democratic (Under review)
 - Two papers on the ethics of dismissal in undemocratic and democratic corporations (with Daniel Sharp)
 - A paper defending a conflictual and political account of intra-corporate politics, arguing that unions should play more of a role in corporate governance (with Chi Kwok; under review)
 
