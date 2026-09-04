@@ -39,14 +39,6 @@ The second is a project on political resistance, again with a particular focus o
 
 *The Boundary Problem in Workplace Democracy: Who Constitutes the Corporate Demos?* Political Theory, 51(3): 507-529. [Link (Open Access)](https://journals.sagepub.com/doi/10.1177/00905917221131821)
 
-## Work in Progress
-
-*If you work on similar issues and would like to get in touch to exchange ideas, give feedback or just have a chat, please do so!*
-
-- A paper on whether it is permissible to force managers to help with making business corporations more democratic (Under review)
-- Two papers on the ethics of dismissal in undemocratic and democratic corporations (with Daniel Sharp)
-- A paper defending a conflictual and political account of intra-corporate politics, arguing that unions should play more of a role in corporate governance (with Chi Kwok; under review)
-
 ## Public Pieces
 
 *Dienstpflicht von unten*, www.praefaktisch.de, 2023. [Link](https://www.praefaktisch.de/002e/dienstpflicht-von-unten/)
