@@ -39,23 +39,11 @@ The second is a project on political resistance, again with a particular focus o
 
 *The Boundary Problem in Workplace Democracy: Who Constitutes the Corporate Demos?* Political Theory, 51(3): 507-529. [Link (Open Access)](https://journals.sagepub.com/doi/10.1177/00905917221131821)
 
-## Public Pieces
-
-*Dienstpflicht von unten*, www.praefaktisch.de, 2023. [Link](https://www.praefaktisch.de/002e/dienstpflicht-von-unten/)
-
-with Savriel Dillingh: *Hoe lossen we de wooncrisis op? Drie lessen uit de bedrijfsethiek*, Bij Nader Inzien, 2022. [Link](https://bijnaderinzien.com/2022/02/10/hoe-lossen-we-de-wooncrisis-op/)
-
-*A Match Made in Law? On Corporations and Their Uncomfortable Fit with Democracy*, The American Philosophical Association, 2021. [Link](https://blog.apaonline.org/2021/10/04/a-match-made-in-law-on-corporations-and-their-uncomfortable-fit-with-democracy/)
-
-*Das Berliner Volksbegehren und die politische Theorie des Unternehmens*, www.praefaktisch.de, 2021. [Link](https://www.praefaktisch.de/002e/das-berliner-volksbegehren-und-die-politische-theorie-des-unternehmens/)
-
 ## Teaching
 
 Since the fall term 2025/6 I am teaching introductory and advanced courses in political philosophy and ethics in the BA Political Science and the MA Politics & Technology at TUM. 
 
 In the summer term 2025 I taught a course on democratic innovations at TU Munich. In the Academic Year 2024/25 I've also been teaching a range of graduate and undergraduate courses in the Philosophy, PPE, and Applied Ethics programs at Utrecht. In 2022 and 2023 I have co-taught an Introduction to Political Philosophy for undergraduate PPE students at Utrecht.
-
-From 2018 to 2020 I was a research and teaching assistant for a range of courses at Ruhr-University Bochum, including an introductory lecture on Ethics and graduate seminars on legitimacy, Kant, a Univeral Basic Income, and other topics in political philosophy.
 
 Students can find some basic tips for studying philosophy [here](https://philippstehr.github.io/StudentResources.html).
 
